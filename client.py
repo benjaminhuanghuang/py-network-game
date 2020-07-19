@@ -3,6 +3,7 @@ from network import Network
 import pickle
 pygame.font.init()
 
+# create window
 width = 700
 height = 700
 win = pygame.display.set_mode((width, height))
